@@ -4,7 +4,7 @@
 // hahaha
 public class Library {
 	public static void main(String arg[]) {
-		System.out.println("Kim changed the code");
+		System.out.println("Kim changed the code......");
 	}
     public boolean someLibraryMethod() {
         return true;
